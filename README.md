@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @C0pyCatS1tka
+- 👀 I’m interested in Pentesting
+- 🌱 I’m currently learning some skillz
