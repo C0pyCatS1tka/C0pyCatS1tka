@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @C0pyCatS1tka
+- Hi, I’m 01000011 00110000 01110000 01111001 01000011 01100001 01110100 01010011 00110001 01110100 01101011 01100001
 - 👀 I’m interested in Pentesting
-- 🌱 I’m currently learning some skillz
+- I’m currently learning some CTF skillz!
